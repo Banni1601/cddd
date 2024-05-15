@@ -1,4 +1,4 @@
-//Banni BAbu deddede3dd 2deds 222 FIXI1: Switch component should be imported from react-router-dom before using it
+// FIXI1: Switch component should be imported from react-router-dom before using it
 import {Switch, Route} from 'react-router-dom'
 
 import Header from './components/Header'
